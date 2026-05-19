@@ -40,7 +40,7 @@ Esta aplicación fue desarrollada utilizando herramientas modernas de desarrollo
 
 Para probar **Focus** en tu dispositivo Android, sigue estos pasos:
 
-1. Ve a la sección de **Releases** en la barra lateral derecha de este repositorio.
+1. Ve a la sección de **[Releases](https://github.com/luisvallez/Focus/releases)** en la barra lateral derecha de este repositorio.
 2. Descarga el archivo `.apk` de la versión más reciente.
 3. Abre el archivo en tu teléfono Android. _(Es posible que tu dispositivo te pida autorizar la instalación de aplicaciones de fuentes desconocidas)._
 4. ¡Instala la app y empieza a entrenar!
