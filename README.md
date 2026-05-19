@@ -18,9 +18,9 @@ Tú pones la rutina, **Focus** se encarga del tiempo.
 
 ## 📸 Capturas de Pantalla
 
-|          Vista Principal          |       Detalle de Ejercicio        |          Temporizador en Acción          |
-| :-------------------------------: | :-------------------------------: | :--------------------------------------: |
-| ![Inicio](imagenes/principal.png) | ![Rutina](imagenes/ejercicio.png) | ![Cronómetro](imagenes/temporizador.png) |
+|         Vista Principal         |      Detalle de Ejercicio       |         Temporizador en Acción         |
+| :-----------------------------: | :-----------------------------: | :------------------------------------: |
+| ![Inicio](images/principal.png) | ![Rutina](images/ejercicio.png) | ![Cronómetro](images/temporizador.png) |
 
 ---
 
